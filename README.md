@@ -20,3 +20,9 @@ Datos abiertos: https://analisis.datosabiertos.jcyl.es/pages/coronavirus/
 Conselleria de Sanitat i Salut Pública - Generalitat Valenciana
 
 http://www.san.gva.es/comunicados-coronavirus
+
+Fuentes oficiales de Italia:
+
+http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1
+
+https://github.com/pcm-dpc/COVID-19
