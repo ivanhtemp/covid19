@@ -15,6 +15,8 @@ Junta de Castilla y León
 
 https://comunicacion.jcyl.es/web/es/coronavirus.html
 
+Datos abiertos: https://analisis.datosabiertos.jcyl.es/pages/coronavirus/
+
 Conselleria de Sanitat i Salut Pública - Generalitat Valenciana
 
 http://www.san.gva.es/comunicados-coronavirus
