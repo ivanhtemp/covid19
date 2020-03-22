@@ -7,6 +7,10 @@ Ministerio de Sanidad, Consumo y Bienestar Social
 
 https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm
 
+Situación de COVID-19 en España: https://covid19.isciii.es/
+
+Análisis epidemiologico: https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Paginas/InformesCOVID-19.aspx
+
 Salud | Comunidad de Madrid
 
 https://www.comunidad.madrid/servicios/salud/covid-19-comunicados
