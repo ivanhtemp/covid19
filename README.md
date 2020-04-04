@@ -1,7 +1,11 @@
 # COVID-19
 Proyecto de recopilación de datos oficiales sobre la incidencia del nuevo coronavirus o COVID-19 en el territorio español. Estos datos serán utilizados exclusivamente de forma educativa y didáctica.
 
-El Ministerio de Sanidad no publicó informes durante los días 29 de febrero, 1 de marzo, 7 de marzo y 8 de marzo. Los datos fueron extraídos del Departamento de Seguridad Nacional.
+## Tablas de valores
+
+- A nivel nacional: https://github.com/ivanhtemp/covid19/blob/master/totales_espana.csv
+
+El Ministerio de Sanidad no publicó informes durante los días 29 de febrero, 1 de marzo, 7 de marzo y 8 de marzo. Los datos fueron extraídos del Departamento de Seguridad Nacional, dependiente del Gabinete de la Presidencia del Gobierno.
 
 **Fuentes de datos:**
 
@@ -13,9 +17,7 @@ El Ministerio de Sanidad no publicó informes durante los días 29 de febrero, 1
 
 + Análisis epidemiológico: https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Paginas/InformesCOVID-19.aspx
 
-+ Salud | Comunidad de Madrid
-
-https://www.comunidad.madrid/servicios/salud/covid-19-comunicados
++ Salud | Comunidad de Madrid: https://www.comunidad.madrid/servicios/salud/covid-19-comunicados
 
 + Junta de Castilla y León: https://comunicacion.jcyl.es/web/es/coronavirus.html
 
