@@ -1,11 +1,15 @@
 # COVID-19
 Proyecto de recopilación de datos oficiales sobre la incidencia del nuevo coronavirus o COVID-19 en el territorio español. Estos datos serán utilizados exclusivamente de forma educativa.
 
+El Ministerio de Sanidad no publicó informes durante los días 29 de febrero, 1 de marzo, 7 de marzo y 8 de marzo. Los datos fueron extraídos del Departamento de Seguridad Nacional.
+
 Fuentes de datos:
 
 Ministerio de Sanidad, Consumo y Bienestar Social
 
 https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm
+
+Departamento de Seguridad Nacional: https://www.dsn.gob.es/es/actualidad/sala-prensa
 
 Situación de COVID-19 en España: https://covid19.isciii.es/
 
